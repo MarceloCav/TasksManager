@@ -1,0 +1,8 @@
+Django>=4.2,<4.3
+djangorestframework
+psycopg2-binary
+django-filter
+djangorestframework-simplejwt
+drf-yasg
+python-decouple
+
